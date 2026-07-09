@@ -1,6 +1,6 @@
 # E-commerce Sales Intelligence
 
-**Author:** Prajwal Naik
+
 
 ## Project Overview
 
