@@ -172,6 +172,39 @@ A structured report containing:
 
 The terminal also prints a clear, plain-English summary, allowing you to
 understand the key business insights without opening the JSON report.
+## Sample Output
+
+```text
+E-commerce Sales Intelligence - starting analysis
+============================================================
+
+Loaded 1500 order rows, 79 product rows, 300 customer rows.
+
+✓ Removed 20 duplicate orders
+✓ Removed 15 orders with missing customer IDs
+✓ Filled 5 missing product prices
+✓ Filled 10 missing customer emails
+
+Master dataset created successfully with 1465 records.
+
+============================================================
+E-COMMERCE SALES INTELLIGENCE - SUMMARY REPORT
+============================================================
+
+• Total Delivered Revenue : Rs 5,760,237.24
+• Best Revenue Month      : February 2024
+• Top Product             : Phone Case (Electronics)
+• Highest Revenue Region  : Ahmedabad - Electronics
+• Average Order Value     : Rs 6,598.21
+• Unsold Products         : 10
+• Total Customers         : 300
+
+Analysis completed successfully.
+
+Output Files:
+✓ outputs/master_data.csv
+✓ outputs/business_report.json
+```
 
 ## Sample Output
 
