@@ -1,0 +1,80 @@
+product_id,product_name,category,price,in_stock
+P001,Wireless Mouse, Electronics ,5223.59,True
+P002,Bluetooth Speaker,  ELECTRONICS,2185.67,True
+P003,Smartphone Stand,Electronics,5510.59,True
+P004,USB-C Cable,electronics  ,544.73,True
+P005,Laptop Sleeve,electronics  ,2091.49,True
+P006,Power Bank,electronics  ,5813.35,False
+P007,Wireless Earbuds,  ELECTRONICS,3758.91,True
+P008,Smart Watch,Electronics,6142.82,True
+P009,HDMI Cable,electronics  ,2919.93,True
+P010,Webcam,  ELECTRONICS,7670.54,True
+P011,Mechanical Keyboard, Electronics ,1014.14,True
+P012,Monitor Stand,  ELECTRONICS,6825.71,True
+P013,Phone Case,Electronics,5918.93,True
+P014,Portable Charger, Electronics ,906.76,True
+P015,Cotton T-Shirt,  CLOTHING,1837.72,True
+P016,Denim Jeans,  CLOTHING,2068.47,True
+P017,Hooded Sweatshirt,Clothing,2602.12,True
+P018,Running Shorts,clothing  ,1014.43,True
+P019,Formal Shirt, Clothing ,1268.0,True
+P020,Winter Jacket,clothing  ,2180.01,True
+P021,Casual Dress,clothing  ,1718.88,True
+P022,Wool Sweater,clothing  ,1521.22,True
+P023,Leather Belt,clothing  ,2132.69,True
+P024,Cotton Socks,Clothing,2509.96,True
+P025,Sports Jersey, Clothing ,986.29,True
+P026,Linen Trousers,Clothing,834.72,False
+P027,Summer Skirt,clothing  ,2682.88,False
+P028,Track Pants, Clothing ,,True
+P029,Non-stick Pan,Home & Kitchen,3412.16,False
+P030,Steel Water Bottle,Home & Kitchen,1756.58,True
+P031,Ceramic Mug Set,  HOME & KITCHEN,590.91,True
+P032,Knife Set,Home & Kitchen,,True
+P033,Cutting Board,Home & Kitchen,2764.56,False
+P034,Storage Containers, Home & Kitchen ,2762.32,False
+P035,Electric Kettle,  HOME & KITCHEN,4375.64,True
+P036,Dinner Plate Set, Home & Kitchen ,3131.35,True
+P037,Pressure Cooker,home & kitchen  ,679.67,False
+P038,Blender,home & kitchen  ,2151.01,True
+P039,Toaster, Home & Kitchen ,2383.03,True
+P040,Bed Sheet Set,home & kitchen  ,3819.18,True
+P041,Mystery Novel,  BOOKS,430.44,True
+P042,Self-Help Guide,  BOOKS,599.21,False
+P043,Cookbook, Books ,233.9,True
+P044,History Book,  BOOKS,329.59,True
+P045,Science Fiction Novel,  BOOKS,214.24,False
+P046,Biography,books  ,883.49,True
+P047,Children's Storybook, Books ,,True
+P048,Poetry Collection,books  ,545.76,False
+P049,Travel Guide, Books ,846.69,True
+P050,Business Book,Books,449.24,True
+P051,Fantasy Novel,  BOOKS,824.71,False
+P052,Comic Book, Books ,335.93,True
+P053,Programming Book,books  ,165.78,True
+P054,Face Moisturizer,beauty  ,110.07,True
+P055,Sunscreen Lotion, Beauty ,194.36,True
+P056,Lipstick, Beauty ,199.2,True
+P057,Shampoo,beauty  ,1036.57,True
+P058,Conditioner,beauty  ,1112.69,False
+P059,Face Wash,beauty  ,1198.47,False
+P060,Body Lotion, Beauty ,232.06,False
+P061,Perfume,  BEAUTY,693.01,False
+P062,Nail Polish,  BEAUTY,1042.71,True
+P063,Hair Serum,  BEAUTY,663.67,True
+P064,Face Mask,Beauty,,True
+P065,Lip Balm, Beauty ,296.26,True
+P066,Hand Cream,Beauty,747.68,True
+P067,Yoga Mat,  SPORTS,4905.73,True
+P068,Dumbbell Set,  SPORTS,4017.23,True
+P069,Cricket Bat,sports  ,5580.29,True
+P070,Football,sports  ,,True
+P071,Badminton Racket,sports  ,5228.51,True
+P072,Skipping Rope, Sports ,2460.15,True
+P073,Resistance Bands, Sports ,5581.15,True
+P074,Running Shoes,sports  ,2711.14,True
+P075,Cycling Helmet,  SPORTS,1382.42,True
+P076,Gym Bag, Sports ,3601.33,True
+P077,Tennis Ball Set,sports  ,625.84,True
+P078,Swimming Goggles,sports  ,624.21,True
+P079,Water Bottle,sports  ,690.57,True
