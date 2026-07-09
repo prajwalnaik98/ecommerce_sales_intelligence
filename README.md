@@ -170,52 +170,7 @@ A structured report containing:
 - Unsold products
 - Customer signup trend
 
-## Sample Output
 
-```text
-E-commerce Sales Intelligence - starting analysis
-...
-Analysis complete! Check the outputs/ folder for saved files.
-```
-
-## Summary Report
-
-1. **Monthly Revenue Trend**
-   - Total delivered revenue across all months: **Rs 5,760,237.24**
-   - Best month: **February 2024** with **Rs 539,630.57** in revenue.
-   - Latest month (**March 2025**) revenue changed by **56.74%** versus the previous month.
-
-2. **Top-Selling Products**
-   - Phone Case (Electronics): **Rs 343,297.94**
-   - Smartphone Stand (Electronics): **Rs 308,593.04**
-   - Cricket Bat (Sports): **Rs 279,014.50**
-   - Webcam (Electronics): **Rs 268,468.90**
-   - Wireless Mouse (Electronics): **Rs 266,403.09**
-
-3. **City + Category Revenue Breakdown**
-   - Highest revenue combination: **Electronics** sales in **Ahmedabad**
-   - Revenue: **Rs 479,758.10**
-
-4. **Top Customers**
-   - Aman Nair (Kolkata): **Rs 81,120.89**
-   - Rahul Nair (Ahmedabad): **Rs 78,507.59**
-   - Kavya Patel (Ahmedabad): **Rs 71,510.33**
-   - Reyansh Malhotra (Delhi): **Rs 69,635.34**
-   - Myra Verma (Bangalore): **Rs 67,375.24**
-
-5. **Average Order Value**
-   - **Rs 6,598.21**
-
-6. **Unsold Products**
-   - Football
-   - Badminton Racket
-   - Skipping Rope
-   - Resistance Bands
-   - Running Shoes
-
-7. **Customer Signup Trend**
-   - Total customers: **300**
-   - Latest month (**2025-03**): **11** new customer signups.
 
 
 ## Project Highlights
