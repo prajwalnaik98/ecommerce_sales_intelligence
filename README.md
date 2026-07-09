@@ -195,4 +195,6 @@ understand the key business insights without opening the JSON report.
 ## Author
 
 **Prajwal Naik**
-GitHub: https://github.com/your-github-username
+GitHub: https://github.com/prajwalnaik98
+<br>
+LinkedIn: www.linkedin.com/in/prajwal-naik-9362b0327
